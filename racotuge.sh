@@ -4,8 +4,7 @@
 
 #this script runs racotuge, the Random & Constrained Tune Generator! :)
 #to run this specific script write ./racotuge.sh 100 in the terminal in the 
-#racotuge directory to get 100 tunes. To run the executable write ./racotuge 100 
-#in the terminal in the racotuge directory.
+#racotuge directory to get 100 tunes.
 
 num=$1
 racotuge(){
