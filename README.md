@@ -5,9 +5,9 @@ Random & Constrained Tune Generator
 Mac OS      
 python 3      
 python modules:      
-   audiolazy      
-   midiutil      
-   numpy      
++ midiutil      
++ audiolazy      
++ numpy      
 
 # running RaCoTuge:
 cd into RaCoTuGe directory      
