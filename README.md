@@ -10,7 +10,7 @@ python modules:
    numpy      
 
 # running RaCoTuge:
-get into RaCoTuGe directory      
+cd into RaCoTuGe directory      
 ```
 chmod +x ./racotuge.sh      
 ```
