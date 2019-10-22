@@ -1,5 +1,5 @@
 # RaCoTuGe
-Random Constrained Tune Generator      
+Random & Constrained Tune Generator      
 
 # prerequisites:
 Mac OS      
