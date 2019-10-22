@@ -9,7 +9,7 @@ python modules:
 + audiolazy      
 + numpy      
 
-# running RaCoTuge:
+# running RaCoTuGe:
 cd into RaCoTuGe directory      
 ```
 chmod +x ./racotuge.sh      
