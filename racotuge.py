@@ -1,3 +1,4 @@
+#Anthony Androulakis, 2019
 #random & constrained tune generator (racotuge)
 #-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#-#
 #durations: indicated by proportions, so quarter note is 1/4, whole note is 1, etc.
