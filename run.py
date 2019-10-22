@@ -6,4 +6,4 @@ def maketune(num): #num = number of tunes to make
     for tunenumber in range(num):
         makemidi(tunenumber)
 
-#maketune(5) #make 100 tunes and place them all in the racotuge/tunes/mid folder
+#maketune(5) #make 5 tunes and place them all in the racotuge/tunes/mid folder
