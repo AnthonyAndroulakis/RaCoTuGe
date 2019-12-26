@@ -19,7 +19,7 @@ chmod +x ./racotuge.sh
 ```
 
 # if you do not have Mac OS:
-in python3 interpreter:
+in python3 interpreter:     
 `from run import maketune`      
 `maketune(100) #for 100 tunes`  
 only .mid and .txt files will be generated (no .wav files)
