@@ -17,3 +17,8 @@ chmod +x ./racotuge.sh
 ```
 ./racotuge.sh 100 #for 100 tunes      
 ```
+
+# if you do not have Mac OS:
+in python3 interpreter:
+`from run import maketune`
+`maketune(100) #for 100 tunes`
