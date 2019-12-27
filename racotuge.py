@@ -4,7 +4,7 @@
 #durations: indicated by proportions, so quarter note is 1/4, whole note is 1, etc.
 #notes: indicated as follows, 1-25, 48-83, C3-B5
 
-###Randomized (why? to remove composer bias):
+###Pseudo-randomized (why? to remove composer bias):
 #randomized scale (Maj: C,G,D,A,E,F,Bb,Eb,Ab; REL HARMONIC MINOR; no-sharps/flats + up-to-4-sharps/flats; 18 choices)
 #randomized note in scale, can be anywhere in keyboard, 36 choices
 #randomized tempo: 100-200 quarter notes per minute
