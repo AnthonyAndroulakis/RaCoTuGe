@@ -36,11 +36,9 @@ only .mid and .txt files will be generated (no .wav files)
 ### Constrained (why? to ensure singability and relative memorability):
 # at most 1 jump of a 3rd
 # if eight note is not following a dotted quarter, only goes in one direction either 2 or 4 eighth notes (at note directly following has to be in same direction)
-# if there's a dotted quarter note, it has to be directly followed by an eighth note *
-# at most 3 quarter notes moving in the same direction X DO NOT DO THIS
-# no consecutive: dotted quarter, half, dotted half, or whole X DO NOT DO THIS
-# dotted half and whole only allowed at end *
-#each tune must by exactly 3 seconds long *
+# if there's a dotted quarter note, it has to be directly followed by an eighth note
+# dotted half and whole only allowed at end
+#each tune must by exactly 3 seconds long
 # if 4 notes long, at least 2 in same direction (1 move)
 # if 5 notes long, at least 3 in same direction (2 moves)
 # if 6 or 7 notes long, at least 4 in same direction (3 moves)
