@@ -15,7 +15,7 @@ cd into RaCoTuGe directory
 chmod +x ./racotuge.sh      
 ```
 ```
-./racotuge.sh 100 #for 100 tunes      
+./racotuge.sh 100 #for 100 tunes (.txt, .mid, and .wav files generated)      
 ```
 
 # if you do not have Mac OS:
