@@ -26,11 +26,11 @@ only .mid and .txt files will be generated (no .wav files)
 
 # Randomizations and Constraints:
 ```
-### Randomized (why? to remove uncontrollable composer biases):
-# randomized scale (Maj: C,G,D,A,E,F,Bb,Eb,Ab; REL HARMONIC MINOR; no-sharps/flats + up-to-4-sharps/flats; 18 choices)
-# randomized note in scale, can be anywhere in keyboard, 36 choices
+### Semi-randomized (why? to control composer biases):
+# randomized scale out of: (Maj: C,G,D,A,E,F,Bb,Eb,Ab; REL HARMONIC MINOR; no-sharps/flats + up-to-4-sharps/flats; 18 choices)
+# randomized note in scale, can be anywhere in middle 3 octaves, 36 choices
 # randomized tempo: 100-200 quarter notes per minute
-# randomized note durations: options are eighth, quarter, dotted quarter, half, dotted half, whole
+# randomized note durations out of: options are eighth, quarter, dotted quarter, half, dotted half, whole
 
 
 ### Constrained (why? to ensure singability and relative memorability):
